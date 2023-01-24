@@ -33,7 +33,7 @@ public class clientDisplay extends JPanel{
 	
 	JLabel enterStringLabel = new JLabel("Enter a String To Send");
 	JTextField enterStringField = new JTextField("Hello World!");
-	JLabel saveStringAsLabel = new JLabel("Click to save String as...");
+	JLabel saveStringAsLabel = new JLabel("Click to send string as...");
 	JButton asUTF8Button = new JButton("UTF-8");
 	JButton asUTF16Button = new JButton("UTF-16");
 	JButton asUTF32Button = new JButton("UTF-32");
