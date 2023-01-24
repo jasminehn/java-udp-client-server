@@ -1,4 +1,4 @@
-#  Java UDP Client and Server
+# :eight_spoked_asterisk: Java UDP Client and Server
  
 This is a simple Java Swing program that acts as both a UDP client and UDP server to transmit messages (strings) as UTF-8, UTF-16, or UTF-32, and receive at any of those three encodings. The user can enter any IP and port, but by default uses localhost because is inteded to run the server and client on the same machine.
 
